@@ -3,7 +3,7 @@
 
 👀 I'm studying TADS at IFPI;
 
-🌱 I’m currently learning .java, .py, .html, .cpp, ;
+🌱 I’m currently learning [.java, .py, .html, .cpp];
 
 📫 Talk to me: mdsp.personal@gmail.com;
 
