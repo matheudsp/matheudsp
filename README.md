@@ -3,9 +3,9 @@
 
 👀 I'm studying TADS at IFPI;
 
-🌱 I’m currently learning JAVA, C++, Python and HMTL5;
+🌱 I’m currently learning .java , .cpp , .py and .html;
 
 📫 Talk to me: mdsp.personal@gmail.com;
 
-⚡ Fun fact:i don't like coffee;
+⚡ Fun fact: i don't like coffee;
 
