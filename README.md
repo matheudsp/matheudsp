@@ -1,5 +1,5 @@
 
-https://raw.githubusercontent.com/matheudsp/matheudsp/main/header.png
+<img src="https://github.com/matheudsp/matheudsp/blob/main/wallpaperbetter%20(1).jpg?raw=true" alt="">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40matheudsp)](https://git.io/typing-svg)
 
@@ -17,6 +17,6 @@ https://raw.githubusercontent.com/matheudsp/matheudsp/main/header.png
 <p align="left">
 <a href="mailto:mdsp.personal@gmail.com" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mdsp.personal@gmail"
- alt="" height="30" width="100"/> 
+ alt="" height="30" width="100"> 
 </a>
 </p>
