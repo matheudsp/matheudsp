@@ -13,5 +13,5 @@ https://raw.githubusercontent.com/matheudsp/matheudsp/main/header.png
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="emailto:mdsp.personal@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/gmail.svg" alt="" height="30" width="40"/></a>
+<a href="mailto:mdsp.personal@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/gmail.svg" alt="" height="30" width="40"/></a>
 </p>
