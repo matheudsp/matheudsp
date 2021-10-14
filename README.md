@@ -15,5 +15,8 @@ https://raw.githubusercontent.com/matheudsp/matheudsp/main/header.png
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:mdsp.personal@gmail.com?Subject=Oi%20Matheus%2C%20visitei%20o%20seu%20perfil%20e..."linkText target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/gmail.svg" alt="" height="30" width="40"/></a>
+<a <a href="mailto:<SEUEMAIL>" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mdsp.personal@gmail"
+ alt="" height="30" width="100"/></a>
 </p>
