@@ -6,7 +6,7 @@
 
    👀 I'm studying ADS at IFPI;
     
-   🌱 I’m currently learning Java, Python, C++ e HTML;
+   🌱 I’m currently learning Java, Python, C++ and HTML;
 
    ⚡ Fun fact: i don't like coffee;
   
