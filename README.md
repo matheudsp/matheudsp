@@ -6,7 +6,7 @@
 
    👀 I'm studying TADS at IFPI;
     
-   🌱 I’m currently learning Java, Python, C++ and HTML;
+   🌱 I’m currently learning ...;
 
   
 
