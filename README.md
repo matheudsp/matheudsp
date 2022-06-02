@@ -6,7 +6,7 @@
 
    👀 I'm studying TADS at IFPI;
     
-   🌱 I’m currently learning ...;
+   🌱 I’m currently learning React Native;
 
   
 
