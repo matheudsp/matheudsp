@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40matheudsp)](https://git.io/typing-svg)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheudsp&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:mdsp.personal@gmail.com" alt="gmail" target="_blank">
