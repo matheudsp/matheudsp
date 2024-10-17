@@ -15,7 +15,7 @@
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript🔸SQL</span></div>|<div id='lojc' align="center"><span>React</span></div>|<div id='lojc' align="center"><span>Git🔸API🔸HTML🔸CSS🔸React Router🔸Context API🔸React Hooks🔸Local Storage🔸Bootstrap🔸Node.js🔸Express🔸JWT</span></div>|<div id='lojc' align="center"><span>Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸PostgreeSQL</span></div>|
+|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript</span></div>|<div id='lojc' align="center"><span>React🔸Expo 🔸 NestJS</span></div>|<div id='lojc' align="center"><span>Git🔸API🔸HTML🔸CSS🔸React Router🔸Context API🔸React Hooks🔸Local Storage🔸Bootstrap🔸Node.js🔸Express🔸JWT 🔸PrismaORM</span></div>|<div id='lojc' align="center"><span>Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸PostgreeSQL</span></div>|
  
 
 	
