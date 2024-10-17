@@ -8,6 +8,11 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mdsp.personal@gmail"
  alt="" height="30" width="100"> 
 </a>
+	<p align="left">
+<a href="https://www.linkedin.com/in/matheudsp/" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheudsp/"
+ alt="" height="30" width="100"> 
+</a>
 	
 ## My Technical Skills
 
