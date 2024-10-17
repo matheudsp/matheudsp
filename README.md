@@ -1,6 +1,8 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40matheudsp)](https://git.io/typing-svg)
+### 👨‍💻 About Me
+
+I am a full-stack developer specializing in **JavaScript** and **TypeScript**, with experience building robust APIs using **NestJS** and **Express**, as well as modern interfaces with **React** and **Expo**. I am always looking to improve my skills and create solutions that truly make a difference.
 
 ## How to reach me
 <p align="left">
